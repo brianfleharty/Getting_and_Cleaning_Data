@@ -6,13 +6,13 @@ Set the working directory in R to that folder
     
 Move the following documents to the folder
 
-..*activity_labels.txt
-..*features.txt
-..*subject_test.txt
-..*X_test.txt
-..*y_test.txt
-..*subject_train.txt
-..*X_train.txt
-..*y_train.txt
+activity_labels.txt
+features.txt
+subject_test.txt
+X_test.txt
+y_test.txt
+subject_train.txt
+X_train.txt
+y_train.txt
 
 Open run_analysis.R then copy and paste into R
