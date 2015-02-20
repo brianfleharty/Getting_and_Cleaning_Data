@@ -3,7 +3,6 @@
 #R script does the following
 
 #1.) Merge the training and test sets to create one data set
-setwd("C:\\Users\\bef\\Desktop\\clean_data\\UCI HAR Dataset\\data")
 
 #Read in the data
 sub_test<-read.table("subject_test.txt")
