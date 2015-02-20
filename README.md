@@ -1,10 +1,10 @@
 ###This code is written for the Getting and Cleaning Data Coursera project
 
-###Download data from (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) to a folder on your computer
+Download data from (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) to a folder on your computer
 
-###Set the working directory in R to that folder
+Set the working directory in R to that folder
     
-###Move the following documents to the folder
+Move the following documents to the folder
 
 ..*activity_labels.txt
 ..*features.txt
@@ -15,4 +15,4 @@
 ..*X_train.txt
 ..*y_train.txt
 
-###Open run_analysis.R then copy and paste into R
+Open run_analysis.R then copy and paste into R
